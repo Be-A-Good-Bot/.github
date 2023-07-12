@@ -1,1 +1,1 @@
-# .github
+# Be a Good Bot
